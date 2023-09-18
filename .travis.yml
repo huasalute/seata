@@ -7,7 +7,7 @@ jdk:
 
 cache:
   directories:
-    - $HOME/.m2
+    - $HOME/.m3
 
 install: true
 
